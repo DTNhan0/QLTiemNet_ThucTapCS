@@ -36,7 +36,7 @@ public class MainController {
     private Label TongThoiGianHomNay;
 
     @FXML
-    void ChonDSKH(ActionEvent event) {
+    void ChonDSTK(ActionEvent event) {
 
     }
 

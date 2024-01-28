@@ -176,7 +176,7 @@
                   <Separator layoutY="-1.0" prefWidth="200.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
                   <VBox layoutY="83.0" prefHeight="387.0" prefWidth="230.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="83.0">
                      <children>
-                        <JFXButton alignment="BASELINE_LEFT" graphicTextGap="10.0" onAction="#ChonDSKH" prefHeight="25.0" prefWidth="229.0" styleClass="Button" stylesheets="@../../CSS/ButtonXin.css" text="Danh sách tài khoản" textFill="WHITE">
+                        <JFXButton alignment="BASELINE_LEFT" graphicTextGap="10.0" onAction="#ChonDSTK" prefHeight="25.0" prefWidth="229.0" styleClass="Button" stylesheets="@../../CSS/ButtonXin.css" text="Danh sách tài khoản" textFill="WHITE">
                            <font>
                               <Font size="15.0" />
                            </font>
